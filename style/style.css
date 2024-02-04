@@ -1,0 +1,55 @@
+body {
+    background-color: antiquewhite;
+}
+
+#title {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+#list-div {
+    text-align: center;
+    margin:25px;
+    border: 10px outset orange;
+    border-radius:5px;
+}
+
+#list {
+    font-size: 16pt;
+    display: inline-block;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 10px;
+}
+
+.sheba {
+    width:70%;
+}
+
+.lasagna {
+    width:70%
+}
+
+.waffle {
+    width:100%;
+}
+
+.ingredients {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding:25px;
+    border: 10px outset blueviolet;
+    border-radius:5px;
+}
+
+.steps {
+
+}
